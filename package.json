@@ -1,6 +1,6 @@
 {
     "name": "amplication-basic-auth-plugin",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "license": "",
     "main": "dist/index.js",
     "scripts": {
