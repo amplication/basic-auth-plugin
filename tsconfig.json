@@ -19,8 +19,5 @@
   "exclude": [
     "node_modules",
     "src/static"
-  ],
-  "assets":[
-    "**/src/static/*"
   ]
 }
