@@ -1,7 +1,7 @@
 {
     "name": "@amplication/basic-auth-plugin",
-    "version": "0.12.6",
-    "private": true,
+    "version": "0.0.1",
+    "license": "",
     "main": "dist/index.js",
     "scripts": {
         "build": "tsc && cp -r ./src/static ./dist"
