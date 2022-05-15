@@ -1,5 +1,5 @@
 {
-    "name": "@amplication/basic-auth-plugin",
+    "name": "amplication-basic-auth-plugin",
     "version": "0.0.1",
     "license": "",
     "main": "dist/index.js",
